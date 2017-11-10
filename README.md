@@ -1,0 +1,2 @@
+# Car-Dealership-Application
+The project covers following concepts: 1) Distributed computing 2) Multithreading, thread definition, creation, management, 3) Synchronization 4) Co-Ordinating EVents 5) Event-Driven programming, 6) Client and Server architecture 7) Service execution model of creating a new thread for each request 8) Performance of parallel computing, and 9) The impacts of multi-core processors to multithreading programs with complex coordination and cooperation.
